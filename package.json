@@ -1,6 +1,6 @@
 {
     "name": "Elaina-BOT",
-    "version": "7.25.1",
+    "version": "3.0.0",
     "description": "BOT Whatsapp",
     "main": "index.js",
     "type": "module",
