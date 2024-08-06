@@ -24,10 +24,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
          
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/yassxofc' //instagram
+global.sig = 'https://instagram.com/mc_rubenx' //instagram
 global.sgh = 'https://github.com/' //github
-global.sgc = 'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //group whatsapp
-global.saluran = 'https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES' //saluran whatsapp
+global.sgc = 'https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a' //group whatsapp
+global.saluran = 'https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a' //saluran whatsapp
 global.syt = 'https://www.youtube.com/@yassxofc' //youtube
 global.swa = 'https://wa.me/62851xxx' //whatsapp
 global.tele = 'https://t.me/' //telegram
@@ -48,11 +48,11 @@ global.nomorwa = '62851xxx' //whatsapp
 global.nomorbot = '62851xxx' //nomor Bot
 global.nomorown = '62851xxx' //nomor Owner
 global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'YASSxOFC' //nama Owner
+global.nameown = 'GEEKMDXINC' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62851xxx', 'YASSxOFC', true] //creator/owner
+  ['62851xxx', 'GEEKMSXINC', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
@@ -324,7 +324,7 @@ global.wait = '🚩 ʟᴏᴀᴅɪɴɢ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ... '
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 851-7983-6603'
+global.phn = '+237693755398'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
